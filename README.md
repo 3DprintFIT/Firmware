@@ -52,3 +52,6 @@ SENDING:M503 S0
   M200 D0
 
 ```
+Optional `M500` command for store parameters into eeprom
+
+
