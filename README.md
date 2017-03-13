@@ -24,3 +24,4 @@ REPLACE
 ```
 REPLACE
 ```
+Optional `M500` command for store parameters into eeprom
