@@ -1,6 +1,8 @@
 # NAME_OF_PRINTER
 Short description
 
+<img src="default-placeholder.png" width="300">
+
 
 
 ## Printer configurations
