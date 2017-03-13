@@ -1,5 +1,5 @@
 # Rebelix - PEI
-Lab experimental printer with PEI sheet and aluminium plate.
+Lab experimental printer with PEI sheet and aluminium plate. Thermal runaway is disabled.
 
 <img src="rebelix_pei.jpg" width="300">
 
