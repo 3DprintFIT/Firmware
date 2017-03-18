@@ -6,6 +6,10 @@ Short description
 
 
 ## Printer configurations
+
+* **Hot end:** REPLACE
+* **Electornics:** REPLACE
+
 Current configurations is obtained by:
 
 ```
