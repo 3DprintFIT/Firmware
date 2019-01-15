@@ -136,6 +136,8 @@
 #if !MB(MINIRAMBO_10A)
   #define E_MUX2_PIN       78
   // 84 in MK2 Firmware, with BEEPER as 78
+#else
+  #define E_MUX2_PIN       84
 #endif
 
 //
