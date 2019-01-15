@@ -134,7 +134,8 @@
 #define E_MUX0_PIN         17
 #define E_MUX1_PIN         16
 #if !MB(MINIRAMBO_10A)
-  #define E_MUX2_PIN       78   // 84 in MK2 Firmware, with BEEPER as 78
+  #define E_MUX2_PIN       78
+  // 84 in MK2 Firmware, with BEEPER as 78
 #endif
 
 //
@@ -166,7 +167,7 @@
       #define SD_DETECT_PIN  72
 
     #else // !MINIRAMBO_10A
-
+    
       // AUX-4
       #define BEEPER_PIN   84
 
@@ -183,6 +184,9 @@
       #define LCD_PINS_D7  71
 
       #define SD_DETECT_PIN  15
+      #define SCK_PIN 52
+      #define MISO_PIN 50
+      #define MOSI_PIN 51
 
     #endif // !MINIRAMBO_10A
 
